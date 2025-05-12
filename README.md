@@ -18,6 +18,8 @@
 <p align="center">
   ⌨️ always learning | ☕ code + vibes 
 </p>
+
+![snake gif](https://github.com/mabelvinn/mabelvinn/blob/output/github-snake-dark.svg)
 <!---
 mabelvinn/mabelvinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
