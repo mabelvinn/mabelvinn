@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 hi! i'm a 10th grade vocational student  <br>🌿 currently learning how to code  <br>💃 dancing is my happy escape  <br>💻 html/css rookie, but loving it!  <br>☁️ dreams powered by caffeine & curiosity  <br>🌲 slowly growing, like a baby plant  <br>📗 obsessed with all things green  <br>🧠 learning one bug at a time  <br>🍃 stay soft, stay smart, stay curious
+🌱 hi! i'm a 11th grade vocational student  <br>🌿 currently learning how to code  <br>💃 dancing is my happy escape  <br>💻 html/css rookie, but loving it!  <br>☁️ dreams powered by caffeine & curiosity  <br>🌲 slowly growing, like a baby plant  <br>📗 obsessed with all things green  <br>🧠 learning one bug at a time  <br>🍃 stay soft, stay smart, stay curious
 
 
 ## 🌐 Socials:
